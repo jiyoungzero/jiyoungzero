@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="" target="_blank"><img src="https://img.shields.io/badge/0094F5?style=plastic&logo=About.me&logoColor=5294E2"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=radical)
 
 <!--
 **jiyoungzero/jiyoungzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
