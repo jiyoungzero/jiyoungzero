@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="aboutdotme.svg" target="_blank"><img src="https://img.shields.io/badge/0094F5?style=plastic&logo=About.me&logoColor=5294E2"/></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=radical)
 
