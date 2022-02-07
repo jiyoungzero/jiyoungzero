@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning algorithm and Adroid App
+🌱 I’m currently learning algorithm and Android App
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=radical)
