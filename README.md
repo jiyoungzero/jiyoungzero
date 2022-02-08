@@ -3,7 +3,7 @@
 
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=deflaut)
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoungzero&layout=compact&theme=tokyonight)
             
