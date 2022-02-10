@@ -1,4 +1,4 @@
-### Hi there 👋<img src="https://img.shields.io/badge/python-071D49?style=plastic&logo=About.me&logoColor=00A98F"/>
+### Hi there 👋         <img src="https://img.shields.io/badge/python-071D49?style=plastic&logo=About.me&logoColor=00A98F"/>
 🌱 I’m currently learning algorithm and Android App
 
 #
