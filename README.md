@@ -1,11 +1,20 @@
 ### Hi there 👋
-🌱 I’m currently learning algorithm and Android App&nbsp;&nbsp; <img src="https://img.shields.io/badge/python-071D49?style=plastic&logo=About.me&logoColor=00A98F"/>
+🌱 I’m currently learning algorithm and Android App&nbsp;&nbsp;
 
+<h3><b>⚔ Technical Skills</b></h3>
+</br>
+	
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a> 
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a> 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://blog.naver.com/wldudwldhd)</a> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VSCode-1572B6?style=flat-square&logo=VSCode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
+<hr>
+
+![](https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=default) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoungzero&layout=compact&theme=default)
 #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=swift)
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoungzero&layout=compact&theme=swift)
             
 <!--
 **jiyoungzero/jiyoungzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
