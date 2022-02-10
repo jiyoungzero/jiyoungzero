@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning algorithm and Android App&nbsp;&nbsp;
+I’m currently learning algorithm and Android App&nbsp;&nbsp;
 
 <h3><b>⚔ Technical Skills</b></h3>
 </br>
