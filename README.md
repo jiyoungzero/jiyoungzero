@@ -6,11 +6,11 @@ I’m currently learning algorithm and Android App&nbsp;&nbsp;
 	
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a> 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a> 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://blog.naver.com/wldudwldhd)</a> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCode-1572B6?style=flat-square&logo=VSCode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"></a>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://blog.naver.com/wldudwldhd) << <b>Click me!</h5></a>
 
 <hr>
 
