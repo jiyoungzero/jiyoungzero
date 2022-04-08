@@ -12,7 +12,7 @@ I’m currently learning algorithm and Back-end&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"></a> >>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://blog.naver.com/wldudwldhd) << <b>Click me!</h5></a>
 
-<h3><b> 📫 JY's Portfolio</b></h3>
+<h3><b> 📫 Click! jiyoung's Portfolio</b></h3>
 
 https://jiyoungzero.github.io/Portfolio_Front-end/
 <hr>
