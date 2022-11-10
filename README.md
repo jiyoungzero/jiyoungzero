@@ -20,7 +20,7 @@
 
 <h3><b> 📫 Click! jiyoung's Portfolio</b></h3>
 
-https://jiyoungzero.github.io/Portfolio_Front-end/
+https://jiyoungzero.github.io/Portfolio_JYLEE/
 <hr>
 
 ![](https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=default)</a> 
