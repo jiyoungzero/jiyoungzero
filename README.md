@@ -16,9 +16,10 @@
 <br>
 <hr>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://blog.naver.com/wldudwldhd) << <b>Click me!</h5></a>
+<b><h3>💭 Tech Blog</h3></a>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://blog.naver.com/wldudwldhd)
 
-<h3><b> 📫 Click! jiyoung's Portfolio</b></h3>
+<h3><b>📫 jiyoung's Portfolio</b></h3>
 
 https://jiyoungzero.github.io/Portfolio_JYLEE/
 <hr>
