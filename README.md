@@ -2,7 +2,7 @@
 <h3>I’m currently learning algorithm and Back-end&nbsp;&nbsp;</h3>
 
 <div><h2>📚 STACKS</h2></div>
-</br>
+
 	
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -16,10 +16,10 @@
 <br>
 <hr>
 
-<b><h3>💭 Tech Blog</h3></a>
+<b><h3>Tech Blog</h3></a>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://blog.naver.com/wldudwldhd)
 
-<h3><b>📫 jiyoung's Portfolio</b></h3>
+<h3><b>Portfolio</b></h3>
 
 https://jiyoungzero.github.io/Portfolio_JYLEE/
 <hr>
