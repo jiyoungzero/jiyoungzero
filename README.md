@@ -16,10 +16,10 @@
 <br>
 <hr>
 
-<b><h3>Tech Blog</h3></a>
+<b><h3>📑 Tech Blog</h3></a>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://blog.naver.com/wldudwldhd)
 
-<h3><b>Portfolio</b></h3>
+<h3><b>✨ Portfolio</b></h3>
 
 https://jiyoungzero.github.io/Portfolio_JYLEE/
 <hr>
