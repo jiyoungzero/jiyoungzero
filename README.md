@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3>I’m currently learning algorithm and Back-end&nbsp;&nbsp;</h3>
+<h3>I’m currently learning algorithm and Spring&nbsp;&nbsp;</h3>
 
 <div><h2>📚 STACKS</h2></div>
 
