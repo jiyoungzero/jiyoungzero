@@ -17,7 +17,7 @@
 <hr>
 
 <b><h3>📑 Tech Blog</h3></a>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)]([https://blog.naver.com/wldudwldhd](https://velog.io/@jiyoungzero))
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://velog.io/@jiyoungzero)
 
 <h3><b>✨ Portfolio</b></h3>
 
