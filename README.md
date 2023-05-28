@@ -22,7 +22,7 @@
 <h3><b>✨ Portfolio</b></h3>
 
 https://jiyoungzero.github.io/Portfolio_JYLEE/
-<hr>
+
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=github_dark"/> -->
