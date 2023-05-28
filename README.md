@@ -25,7 +25,7 @@ https://jiyoungzero.github.io/Portfolio_JYLEE/
 <hr>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=github_dark"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jiyoungzero&show_icons=true&theme=github_dark"/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyoungzero&layout=compact&theme=default)</a> -->
 
 
