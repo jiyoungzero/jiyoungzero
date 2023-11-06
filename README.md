@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi, I'm Jiyeong 👋
 <h3>I’m currently learning algorithm and Spring&nbsp;&nbsp;</h3>
 
-<div><h2>📚 STACKS</h2></div>
+<div><h3>📚 STACKS</h2></div>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -16,10 +16,11 @@
 <br>
 <hr>
 
-<b><h3>📑 Tech Blog</h3></a>
+<b><h3>🔭 Tech Blog </h3></a>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-orange?style=flat-square&logo=&link=https://zzsza.github.io/)](https://velog.io/@jiyoungzero)
 
-<h3><b>✨ Portfolio</b></h3>
+<hr>
+<h3><b>🌱 Portfolio</b></h3>
 
 https://jiyoungzero.github.io/Portfolio_JYLEE/
 
